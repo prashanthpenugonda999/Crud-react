@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "name1",
+      "price": "121",
+      "category": "mobile"
+    },
+    {
+      "id": 2,
+      "name": "name2",
+      "price": "122",
+      "category": "mobile"
+    },
+    {
+      "id": 3,
+      "name": "name3",
+      "price": "123",
+      "category": "mobile"
+    },
+    {
+      "id": 4,
+      "name": "name4",
+      "price": "124",
+      "category": "mobile"
+    },
+    {
+      "id": 5,
+      "name": "name5",
+      "price": "125",
+      "category": "mobile"
+    },
+    {
+      "id": "660a",
+      "name": "name8",
+      "category": "mobile"
+    },
+    {
+      "id": "25ed",
+      "name": "name8",
+      "category": "mobile"
+    },
+    {
+      "id": "d05d",
+      "name": "name8",
+      "category": "mobile"
+    },
+    {
+      "id": "8010",
+      "name": "name8",
+      "category": "mobile"
+    }
+  ]
+}
